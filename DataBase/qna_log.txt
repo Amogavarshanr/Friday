@@ -1,0 +1,15 @@
+
+Question : what is the how are you 
+Answer : I'm doing well, thank you for asking.
+Question : what is your name 
+Answer : My name is John.
+Question : what is your mother's name 
+Answer : My mother's name is Jane.
+Question : where is motilal 
+Answer : I'm not sure where Motilal is.
+Question : where is motilal taj mahal 
+Answer : I'm not sure where Motilal Taj Mahal is.
+Question : what is your name 
+Answer : My name is John.
+Question : Answer somewhere what is your name 
+Answer : My name is John.

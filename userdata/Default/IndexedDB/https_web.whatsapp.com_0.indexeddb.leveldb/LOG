@@ -1,0 +1,35 @@
+2023/03/13-20:00:55.104 7168 Reusing MANIFEST C:\ai_project\userdata\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/13-20:00:55.105 7168 Recovering log #671
+2023/03/13-20:00:55.112 7168 Reusing old log C:\ai_project\userdata\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000671.log 
+2023/03/13-20:01:05.673 241c Level-0 table #687: started
+2023/03/13-20:01:05.759 241c Level-0 table #687: 1266519 bytes OK
+2023/03/13-20:01:05.761 241c Delete type=0 #671
+2023/03/13-20:01:06.046 241c Compacting 1@0 + 0@1 files
+2023/03/13-20:01:06.093 241c Generated table #688@0: 24333 keys, 649549 bytes
+2023/03/13-20:01:06.093 241c Compacted 1@0 + 0@1 files => 649549 bytes
+2023/03/13-20:01:06.094 241c compacted to: files[ 0 1 10 0 0 0 0 ]
+2023/03/13-20:01:06.095 241c Delete type=2 #687
+2023/03/13-20:01:06.754 75e0 Compacting 1@1 + 10@2 files
+2023/03/13-20:01:06.897 75e0 Generated table #689@1: 58179 keys, 2226945 bytes
+2023/03/13-20:01:06.948 75e0 Generated table #690@1: 2447 keys, 2154747 bytes
+2023/03/13-20:01:06.999 75e0 Generated table #691@1: 2977 keys, 2153207 bytes
+2023/03/13-20:01:07.053 75e0 Generated table #692@1: 2616 keys, 2154714 bytes
+2023/03/13-20:01:07.157 75e0 Generated table #693@1: 23297 keys, 2226486 bytes
+2023/03/13-20:01:07.285 75e0 Generated table #694@1: 25919 keys, 2227822 bytes
+2023/03/13-20:01:07.411 75e0 Generated table #695@1: 17183 keys, 2141413 bytes
+2023/03/13-20:01:07.607 75e0 Generated table #696@1: 103330 keys, 2256236 bytes
+2023/03/13-20:01:07.779 75e0 Generated table #697@1: 102164 keys, 2254296 bytes
+2023/03/13-20:01:07.892 75e0 Generated table #698@1: 75203 keys, 1678301 bytes
+2023/03/13-20:01:07.892 75e0 Compacted 1@1 + 10@2 files => 21474167 bytes
+2023/03/13-20:01:07.892 75e0 compacted to: files[ 0 0 10 0 0 0 0 ]
+2023/03/13-20:01:07.893 75e0 Delete type=2 #675
+2023/03/13-20:01:07.893 75e0 Delete type=2 #676
+2023/03/13-20:01:07.893 75e0 Delete type=2 #677
+2023/03/13-20:01:07.893 75e0 Delete type=2 #678
+2023/03/13-20:01:07.893 75e0 Delete type=2 #679
+2023/03/13-20:01:07.893 75e0 Delete type=2 #680
+2023/03/13-20:01:07.893 75e0 Delete type=2 #681
+2023/03/13-20:01:07.893 75e0 Delete type=2 #682
+2023/03/13-20:01:07.893 75e0 Delete type=2 #683
+2023/03/13-20:01:07.893 75e0 Delete type=2 #684
+2023/03/13-20:01:07.893 75e0 Delete type=2 #688

@@ -1,0 +1,33 @@
+{
+    "intents":[
+        {
+            "tag":"open",
+            "patterns":["open","start","launch","visit"
+            ],
+            "responses":["open"
+            ]
+        },
+       
+         {
+            "tag":"send",
+            "patterns":["send","whatsapp","message","send whatsapp"
+            ],
+            "responses":["whatsapp"
+            ]
+        },
+        {
+            "tag":"music",
+            "patterns":["music","play music","play song"
+            ],
+            "responses":["music"
+            ]
+        },
+        {
+            "tag":"time",
+            "patterns":["what is the time now","time","current time"
+            ],
+            "responses":["time"
+            ]
+        }
+    ]
+}

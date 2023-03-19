@@ -1,0 +1,32 @@
+2023/03/13-11:53:22.241 6e3c Reusing MANIFEST C:\ai_project\userdata\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/13-11:53:22.242 6e3c Recovering log #671
+2023/03/13-11:53:22.243 6e3c Reusing old log C:\ai_project\userdata\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000671.log 
+2023/03/13-11:53:22.788 3114 Compacting 1@0 + 0@1 files
+2023/03/13-11:53:22.818 3114 Generated table #674@0: 20679 keys, 490394 bytes
+2023/03/13-11:53:22.818 3114 Compacted 1@0 + 0@1 files => 490394 bytes
+2023/03/13-11:53:22.818 3114 compacted to: files[ 0 1 10 0 0 0 0 ]
+2023/03/13-11:53:22.819 3114 Delete type=2 #672
+2023/03/13-11:53:23.377 3114 Compacting 1@1 + 10@2 files
+2023/03/13-11:53:23.451 3114 Generated table #675@1: 54292 keys, 2215093 bytes
+2023/03/13-11:53:23.480 3114 Generated table #676@1: 2452 keys, 2152229 bytes
+2023/03/13-11:53:23.510 3114 Generated table #677@1: 3056 keys, 2154864 bytes
+2023/03/13-11:53:23.537 3114 Generated table #678@1: 2549 keys, 2151244 bytes
+2023/03/13-11:53:23.599 3114 Generated table #679@1: 25374 keys, 2235315 bytes
+2023/03/13-11:53:23.667 3114 Generated table #680@1: 23707 keys, 2215662 bytes
+2023/03/13-11:53:23.706 3114 Generated table #681@1: 28557 keys, 2157594 bytes
+2023/03/13-11:53:23.794 3114 Generated table #682@1: 102104 keys, 2252740 bytes
+2023/03/13-11:53:23.857 3114 Generated table #683@1: 101917 keys, 2252575 bytes
+2023/03/13-11:53:23.903 3114 Generated table #684@1: 63449 keys, 1413046 bytes
+2023/03/13-11:53:23.904 3114 Compacted 1@1 + 10@2 files => 21200362 bytes
+2023/03/13-11:53:23.904 3114 compacted to: files[ 0 0 10 0 0 0 0 ]
+2023/03/13-11:53:23.904 3114 Delete type=2 #660
+2023/03/13-11:53:23.904 3114 Delete type=2 #661
+2023/03/13-11:53:23.904 3114 Delete type=2 #662
+2023/03/13-11:53:23.904 3114 Delete type=2 #663
+2023/03/13-11:53:23.905 3114 Delete type=2 #664
+2023/03/13-11:53:23.905 3114 Delete type=2 #665
+2023/03/13-11:53:23.905 3114 Delete type=2 #666
+2023/03/13-11:53:23.905 3114 Delete type=2 #667
+2023/03/13-11:53:23.905 3114 Delete type=2 #668
+2023/03/13-11:53:23.905 3114 Delete type=2 #669
+2023/03/13-11:53:23.905 3114 Delete type=2 #674

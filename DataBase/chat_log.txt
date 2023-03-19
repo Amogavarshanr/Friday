@@ -1,0 +1,99 @@
+
+You : How are you 
+Friday : I'm doing well, thank you for asking.
+You : music 
+Friday : I enjoy listening to music, especially when it's something I can sing along to.
+You : Facebook 
+Friday : I enjoy using Facebook to stay connected with my friends and family. I also like using it to discover new things and learn about different topics.
+You : irony 
+Friday : I find irony to be interesting and often humorous. I think it's a great way to add some depth and complexity to a story or situation.
+You : market breaks how are you 
+Friday : I'm doing well, thank you for asking. The stock market has been a bit volatile lately, but I'm staying positive and keeping an eye on my investments.
+You : are you a girl 
+Friday : Yes, I am a girl.
+You : abdul 
+Friday : I'm sorry, I don't know who that is.
+You : Ganga Devi 
+Friday : I'm sorry, I don't know who that is.
+You : What is your name 
+Friday : My name is Friday.
+You : water body system name 
+Friday : The water body system is made up of the oceans, rivers, lakes, and groundwater.
+You : play music 
+Friday : I enjoy listening to music, especially when it's something I can sing along to.
+You : Where is the Motilal Taj Mahal 
+Friday : The Motilal Taj Mahal is located in Agra, India.
+You : birthday dear 
+Friday : Thank you for asking! My birthday is on September 13th.
+You : plan for facebook 
+Friday : There are a few things I'd like to do with my Facebook account. I'd like to stay connected with my friends and family, and I also want to use it to discover new things and learn about different topics.
+You : non animal 
+Friday : There are a few things I can think of that are non-animal, such as plants, rocks, and certain types of bacteria.
+You : hero hero 
+Friday : There are many different types of heroes, from the traditional superhero to the everyday person who does something heroic. There are also different levels of heroism, from the selfless act of saving someone's life to simply lending a helping hand.
+You : State bank 
+Friday : The State Bank of India is the largest bank in India with over 16,000 branches across the country. It offers a wide range of banking services, including savings and checking accounts, loans, and credit cards.
+You : canada canada canada 
+Friday : Canada is a country located in North America. It is the second largest country in the world, and is known for its diverse landscape and multicultural population. Canada is a developed country with a strong economy, and is a member of the United Nations, G8, and Commonwealth of Nations.
+You : Himachal data 
+Friday : Himachal Pradesh is a state in northern India. It is bordered by the states of Jammu and Kashmir to the north, Punjab to the west, Haryana to the south, and Uttarakhand to the east. Himachal Pradesh is also home to the Himal
+You : reservation 
+Friday : There are a few things I'd like to do with my Facebook account. I'd like to stay connected with my friends and family, and I also want to use it to discover new things and learn about different topics.
+You : Who is the Prime Minister of India? 
+Friday : The current Prime Minister of India is Narendra Modi.
+You : Which is the National Park of India 
+Friday : There are many national parks in India, but some of the more popular ones include the Jim Corbett National Park, the Kaziranga National Park, and the Sundarbans National Park.
+You : Who is the Prime Minister of India? 
+Friday : The current Prime Minister of India is Narendra Modi.
+You : Write a simple code to print numbers 
+Friday : for i in range(1,11):
+  print(i)
+You : Price which court to print prime number 
+Friday : There is no one definitive answer to this question.
+You : Write a Java program to print prime numbers 
+Friday : public class PrimeNumbers {
+
+    public static void main(String[] args) {
+
+        int num = 29;
+        boolean flag = false;
+        for(int i = 2; i <= num/2; ++i)
+        {
+            // condition for non
+You : Write a syntax for Java program 
+Friday : public class PrimeNumbers {
+
+    public static void main(String[] args) {
+
+        int num = 29;
+        boolean flag = false;
+        for(int i = 2; i <= num/2; ++i)
+        {
+            // condition for non
+You : removed 
+Friday : Please let me know if there is anything else I can help you with.
+You : take away 
+Friday : Please let me know if there is anything else I can help you with.
+You : Note 
+Friday : Please let me know if there is anything else I can help you with.
+You : How are you? 
+Friday : I'm doing well, thank you for asking.
+You : Do you want 
+Friday : No, I don't want anything. Thank you for asking.
+You : Bari Prime Minister Who is the Prime Minister of India in Kannada? 
+Friday : The current Prime Minister of India is Narendra Modi.
+You : What should we ask for this? 
+Friday : Please let me know if there is anything specific you would like me to help you with.
+You : Tell Me News 
+Friday : Some of the top stories making headlines today include: 
+ - The United States and China have reached a trade agreement 
+ - A powerful winter storm is making its way across the country 
+ - The government shutdown continues as negotiations between Democrats and Republicans remain at a standstill 
+ -
+You : what happened 
+Friday : Some of the top stories making headlines today include: 
+ - The United States and China have reached a trade agreement 
+ - A powerful winter storm is making its way across the country 
+ - The government shutdown continues as negotiations between Democrats and Republicans remain at a standstill
+You : Play music 
+Friday : I enjoy listening to music, especially when it's something I can sing along to.
